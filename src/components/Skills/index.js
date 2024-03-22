@@ -11,13 +11,13 @@ const Skills = () => (
         Languages
       </div>
       <ul>
-				<li className = 'intermediate'>GoLang</li>
+				<li className = 'proficient'>Java</li>
 				<li className = 'proficient'>GraphQL</li>
 				<li className = 'intermediate'>Python</li>
-        <li className = 'proficient'>HTML/CSS</li>
-        <li className = 'proficient'>JavaScript/ES6</li>
-				<li className = 'proficient'>C</li>
-				<li className = 'intermediate'>Java</li>
+        <li className = 'intermediate'>HTML/CSS</li>
+        <li className = 'intermediate'>JavaScript</li>
+				<li className = 'proficient'>C/C# </li>
+				<li className = 'proficient'>C++</li>
       </ul>
     </div>
     <div className = 'skill frameworks'>
@@ -27,11 +27,10 @@ const Skills = () => (
       <ul>
 				<li className = 'proficient'>Kubernetes</li>
 				<li className = 'proficient'>Docker</li>
-				<li className = 'proficient'>Terraform</li>
-				<li className = 'intermediate'>Ansible</li>
+				<li className = 'intermediate'>Terraform</li>
+				<li className = 'intermediate'>SpringBoot</li>
 				<li className = 'proficient'>Git</li>
-        <li className = 'intermediate'>Node.js</li>
-        <li className = 'proficient'>React.js</li>
+        <li className = 'proficient'>.NET</li>
       </ul>
     </div>
     <div className = 'skill platforms'>
@@ -39,11 +38,8 @@ const Skills = () => (
         Platforms
       </div>
       <ul>
-        <li className = 'proficient'>*nix</li>
-				<li className = 'intermediate'>MacOS</li>
+        <li className = 'proficient'>GCP</li>
 				<li className = 'intermediate'>AWS</li>
-				<li className = 'intermediate'>GCP</li>
-				<li className = 'intermediate'>Azure</li>
       </ul>
       <div className = 'filler' />
       <div className = 'indicators'>

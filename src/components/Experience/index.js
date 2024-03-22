@@ -9,11 +9,11 @@ const Experience = () => (
 		<div className = 'job'>
 			<div className = 'header'>
 				<div className = 'title'>
-					Principal Solutions Architect, Americas Lead
+				Part-Time Software Developer - Student-Worker
 				</div>
 				<div className = 'date'>
 					<div className = 'from'>
-						Aug 2022
+						Sep 2023
 					</div>
 					<div className = 'to'>
 						Present
@@ -21,182 +21,122 @@ const Experience = () => (
 				</div>
 			</div>
 			<div className = 'employer'>
-				Tyk Technologies, CA
+				Trackunit Inc
 			</div>
 			<ul>
 				<li>
-					Led the presales team to achieve the highest new business ARR in the Americas region
-					during my inaugural year in charge. Additionally, I played a pivotal role in securing
-					our highest ARR for business expansion by unblocking two of our largest deals
-					of the year on the technical front.
+					Acquired and applied skills in GraphQL and REST APIs to understand their architecture, 
+					leading to improved backend performance and enhanced security measures.
 				</li>
 				<li>
-					Led the technical initiative for the Americas region&apos;s largest deal, from initial
-					contact to successful production deployment. This involved spearheading on-site
-					workshops, conducting architectural reviews, and implementing high performance code
-					enhancements and features.
+					Transformed API calls into a unified GraphQL endpoint, improving data efficiency and security, 
+					which resulted in a reduction in data over-fetching and an improvement in API response times.
 				</li>
 				<li>
-					Addressed an industry-wide Kubernetes knowledge gap by creating a library that
-					simplifies environment setup. This enabled customers to deploy Tyk effortlessly and
-					focus on product trials, directly contributing to half a million ARR in its first year.
+					Managed the development team’s GitHub to ensure code consistency and version control, contributing to a 
+					40% decrease in merge conflicts and an increase in deployment frequency.
+				</li>
+				<li>
+					Employed DevOps methodologies to maintain uniformity with company standards, 
+					streamlining development processes and achieving a 20% faster turnaround for feature releases.
 				</li>
 			</ul>
 		</div>
 		<div className = 'job'>
 			<div className = 'header'>
 				<div className = 'title'>
-					Solutions Architect
+					Software Development Intern
 				</div>
 				<div className = 'date'>
 					<div className = 'from'>
-						Apr 2021
+						May 2022
 					</div>
 					<div className = 'to'>
-						Jul 2022
+						Aug 2023
 					</div>
 				</div>
 			</div>
 			<div className = 'employer'>
-				Tyk Technologies, CA
+				Trackunit Inc
 			</div>
 			<ul>
 				<li>
-					Unlocked hundreds of thousands of dollars in revenue by investigating and writing
-					integrations for different deployment technologies such as OpenShift, Kubernetes,
-					Ansible, Helm, and Docker.
+					Led initiatives to create application environments in Google Cloud Platform, utilizing 
+					provisioning architectures and integrating CI/CD pipelines to improve deployment efficiency, 
+					resulting in a faster go-to-market for new features.
 				</li>
 				<li>
-					Identified a lack of visibility with our gateway&apos;s performance and created an Ansible
-					playbook to generate performance testing on the three major clouds
-					(AWS, GCP , and Azure) which led to an increase product performance visibility.
+					Implemented security measures to authenticate APIs through a gateway using Ocelot, bolstering 
+					system security by creating a centralized point for authentication. This initiative significantly 
+					reduced potential security vulnerabilities, ensuring secure data transactions and enhancing trust 
+					in our platform's reliability.
 				</li>
 				<li>
-					Mentored engineers and identified a curriculum of courses to help them up-skill and become
-					subject matter experts in different domains of the product.
+					Successfully migrated the software platform from Google Cloud Platform to Amazon Web Services and
+					enhanced platform security using advanced software tools, which increased system reliability and 
+					reduced operational costs.
+				</li>
+				<li>
+					Regularly migrated and monitored Kubernetes clusters in both GCP and AWS, lowering kubectl costs 
+					and CPU usage in applications' Kubernetes clusters by optimizing resource allocation and 
+					scaling strategies, which enhanced application performance, reducing operational expenses.
 				</li>
 			</ul>
 		</div>
 		<div className = 'job'>
 			<div className = 'header'>
 				<div className = 'title'>
-					Consulting Engineer
+					Vice President of Events & Educationals
 				</div>
 				<div className = 'date'>
 					<div className = 'from'>
-						Nov 2020
+						June 2023
 					</div>
 					<div className = 'to'>
-						Mar 2021
+						Present
 					</div>
 				</div>
 			</div>
 			<div className = 'employer'>
-				Tyk Technologies, CA
+				Women+ In Technology Society, Western University
 			</div>
 			<ul>
 				<li>
-					Led complex infrastructure discussions and white boarding sessions to help clients
-					deploy Tyk across multiple clouds and using different deployment strategies.
+					Led and managed a team of Directors, overseeing tasks and providing guidance to ensure 
+					the successful execution of all events, which led to an increase in overall event 
+					quality and participant satisfaction.
 				</li>
 				<li>
-					Created Tyk Ansible playbook to enable clients to install Tyk on bare metal servers.
+					Orchestrated a range of technology-based events and panels, involving speaker recruitment, 
+					event planning, and coordination, resulting in a 50% increase in event attendance.
 				</li>
 				<li>
-					Built a library to consume and auto-document Tyk configuration to enhance usability.
+					Mentored at the SheHacks hackathon, guiding participants through project development, which 
+					contributed to an increase in completed projects and positive participant feedback.
 				</li>
 			</ul>
 		</div>
 		<div className = 'job'>
 			<div className = 'header'>
 				<div className = 'title'>
-					Senior Software Developer, Project Lead
+					Director of Events & Educationals
 				</div>
 				<div className = 'date'>
 					<div className = 'from'>
-						Jun 2019
+						Sep 2022
 					</div>
 					<div className = 'to'>
-						Nov 2020
+						May 2023
 					</div>
 				</div>
 			</div>
 			<div className = 'employer'>
-				OSG, London, ON, CA
+				Women+ In Technology Society, Western University
 			</div>
+			<ul>
+			</ul>
 		</div>
-		<div className = 'job'>
-			<div className = 'header'>
-				<div className = 'title'>
-					Graduate Teaching Assistant
-				</div>
-				<div className = 'date'>
-					<div className = 'from'>
-						Sep 2017
-					</div>
-					<div className = 'to'>
-						Apr 2019
-					</div>
-				</div>
-			</div>
-			<div className = 'employer'>
-				Western University, London, ON, CA
-			</div>
-		</div>
-    <div className = 'job'>
-      <div className = 'header'>
-        <div className = 'title'>
-          Intermediate Full Stack Developer, Project Lead
-        </div>
-        <div className = 'date'>
-          <div className = 'from'>
-            Apr 2017
-          </div>
-          <div className = 'to'>
-            Apr 2019
-          </div>
-        </div>
-      </div>
-      <div className = 'employer'>
-        Eighty8 Ventures, London, ON, CA
-      </div>
-    </div>
-		<div className = 'job'>
-			<div className = 'header'>
-				<div className = 'title'>
-					Naval Warfare Officer
-				</div>
-				<div className = 'date'>
-					<div className = 'from'>
-						Jun 2017
-					</div>
-					<div className = 'to'>
-						Aug 2022
-					</div>
-				</div>
-			</div>
-			<div className = 'employer'>
-				Canadian Armed Forces Primary Reserves
-			</div>
-		</div>
-		<div className = 'job'>
-			<div className = 'header'>
-				<div className = 'title'>
-					Associate Software Developer, Project Lead
-				</div>
-				<div className = 'date'>
-					<div className = 'from'>
-						Sep 2015
-					</div>
-					<div className = 'to'>
-						Aug 2016
-					</div>
-				</div>
-			</div>
-			<div className = 'employer'>
-				London Life, London, ON, CA
-			</div>
-		</div>
+	
   </article>
 );
 

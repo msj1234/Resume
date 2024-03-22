@@ -9,53 +9,34 @@ const Projects = () => (
 		<div className = 'project'>
 			<div className = 'column'>
 				<div className = 'title'>
-					TF API Gateway Performance Testing Suite
+					Trip Weather Planner  
 				</div>
 				<div className = 'github'>
-					<a href = 'https://github.com/TykTechnologies/tyk-performance-testing'>github.com/TykTechnologies/tyk-performance-testing</a>
+					<a href = 'https://github.com/msj1234/WeatherApp'>github.com/msj1234/WeatherApp</a>
 				</div>
 			</div>
 		</div>
 		<div className = 'project'>
 			<div className = 'column'>
 				<div className = 'title'>
-					Tyk Kubernetes Demo
+					Sudoku Solver
 				</div>
 				<div className = 'github'>
-					<a href = 'https://github.com/TykTechnologies/tyk-k8s-demo'>github.com/TykTechnologies/tyk-k8s-demo</a>
+					<a href = 'https://github.com/msj1234/Sudoku'>github.com/msj1234/Sudoku</a>
 				</div>
 			</div>
 		</div>
 		<div className = 'project'>
 			<div className = 'column'>
 				<div className = 'title'>
-					Go API Test Service
+					Linktree Clone
 				</div>
 				<div className = 'github'>
-					<a href = 'https://github.com/zalbiraw/go-api-test-service'>github.com/zalbiraw/go-api-test-service</a>
+					<a href = 'https://github.com/msj1234/linktree-clone'>github.com/msj1234/linktree-clone</a>
 				</div>
 			</div>
 		</div>
-		<div className = 'project'>
-			<div className = 'column'>
-				<div className = 'title'>
-					IRC Chat Client
-				</div>
-				<div className = 'github'>
-					<a href = 'https://github.com/zalbiraw/IRC-Client'>github.com/zalbiraw/IRC-Client</a>
-				</div>
-			</div>
-		</div>
-		<div className = 'project'>
-			<div className = 'column'>
-				<div className = 'title'>
-					Parallelized Ray Tracer
-				</div>
-				<div className = 'github'>
-					<a href = 'https://github.com/zalbiraw/cuda_raytrace'>github.com/zalbiraw/cuda_raytrace</a>
-				</div>
-			</div>
-		</div>
+		
   </article>
 );
 

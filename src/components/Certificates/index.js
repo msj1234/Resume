@@ -9,39 +9,18 @@ const Certificates = () => (
 		<div className = 'certificate'>
 			<div className = 'column'>
 				<div className = 'title'>
-					Certified Kubernetes Application Developer
+					Migrating From REST to GraphQL
 				</div>
 				<div className = 'issuer'>
 					<div className = 'column'>
-						The Linux Foundation
+						LinkedIn Learning
 					</div>
 					<div className = 'column'>
 						<div className = 'date'>
 							<div className = 'from'>
-								May 2023
+								Feb 2024
 							</div>
-							<div className = 'to'>
-								May 2026
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div className = 'certificate'>
-			<div className = 'column'>
-				<div className = 'title'>
-					GraphQL Developer - Professional
-				</div>
-				<div className = 'issuer'>
-					<div className = 'column'>
-						Apollo GraphQL
-					</div>
-					<div className = 'column'>
-						<div className = 'date'>
-							<div>
-								Jul 2022
-							</div>
+						
 						</div>
 					</div>
 				</div>
