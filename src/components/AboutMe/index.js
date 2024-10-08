@@ -7,7 +7,7 @@ const AboutMe = () => (
 			About Me
 		</div>
     <div className = 'about-me'>
-      Recent graduate with valuable internship and leadership experience. My career in software development 
+      Wester Student seeking valuable internship and leadership experience. My career in software development 
 	  	is driven by a passion for learning and seizing new opportunities. My adaptability and attention 
 		to detail fuel my ability to solve complex challenges and swiftly learn new technologies.
 	  I have expierence in full-stack development, cloud services, continuous integration and deployment practises. 

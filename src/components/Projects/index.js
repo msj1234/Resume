@@ -9,7 +9,7 @@ const Projects = () => (
 		<div className = 'project'>
 			<div className = 'column'>
 				<div className = 'title'>
-					Trip Weather Planner  
+					React Resume App  
 				</div>
 				<div className = 'github'>
 					<a href = 'https://github.com/msj1234/WeatherApp'>github.com/msj1234/WeatherApp</a>

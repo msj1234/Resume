@@ -7,8 +7,8 @@ const Interests = () => (
 			Interests
 		</div>
     <div className = 'interests'>
-      travelling, biking, reading, writing, volleyball, pickle ball 
-      and furniture restoration.
+      basketball, tennis, reading, crochet, volleyball, pickle ball 
+      and alto saxophone.
     </div>
   </article>
 );

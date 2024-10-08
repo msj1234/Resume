@@ -4,15 +4,15 @@ const Contact = () => (
 	<div className = 'contact-information'>
 		<div className = 'row linkedin'>
 			<i className = 'fab fa-linkedin' />
-			<a href = 'https://linkedin.com/in/marjonasaid'>linkedin.com/in/marjonasaid</a>
+			<a href = 'www.linkedin.com/in/marwa-j-ba480b1b8'>linkedin.com/in/marwajamali</a>
 		</div>
 		<div className = 'row github'>
 			<i className = 'fab fa-github' />
-			<a href = 'https://github.com/msj1234'>github.com/msj1234</a>
+			<a href = 'https://github.com/MaRwSJ'>github.com/MaRwSJ</a>
 		</div>
 		<div className = 'row email'>
 			<i className = 'fas fa-envelope' />
-			marjonasj@gmail.com
+			mjamali6@uwo.ca
 		</div>
 		<div className = 'row home'>
 			<i className = 'fas fa-home' />

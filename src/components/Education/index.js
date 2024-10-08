@@ -10,7 +10,7 @@ const Education = () => (
       <div className = 'column'>
         <div className = 'title'>
         BSc in <span>Computer Science</span> with
-          Specialization
+          Honors Specialization
         </div>
         <div className = 'institute'>
           Western University, London, ON, CA
@@ -19,10 +19,10 @@ const Education = () => (
       <div className = 'column'>
         <div className = 'date'>
           <div className = 'from'>
-            Sep 2019
+            Sep 2022
           </div>
           <div className = 'to'>
-            Apr 2024
+            Apr 2026
           </div>
         </div>
       </div>
