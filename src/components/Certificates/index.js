@@ -17,9 +17,9 @@ const Certificates = () => (
 					</div>
 					<div className = 'column'>
 						<div className = 'date'>
-							<div className = 'from'>
-								Feb 2024
-							</div>
+						
+							Feb 2024
+							
 						
 						</div>
 					</div>

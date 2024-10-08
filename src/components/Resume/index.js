@@ -23,7 +23,7 @@ const Resume = () => (
 					<AboutMe />
 					<div className = 'ruler' />
 					<Certificates />
-					<div className = 'ruler' />
+					
 					<Awards />
 					<div className = 'ruler' />
 					<Projects />

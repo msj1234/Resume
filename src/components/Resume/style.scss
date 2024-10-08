@@ -52,6 +52,7 @@
       width: 3in;
       background-color: $primary;
       color: $secondary;
+      
 
       .title > i {
       	color: $primary;
@@ -61,16 +62,23 @@
       & .ruler {
 				width: 2in;
 				border-color: $secondary;
+        margin-top: 0.2in;
 			}
+      & .rulerLong {
+        width: 2in;
+				border-color: $secondary;
+      }
     }
 
     &.right {
       width: 5.5in;
       background-color: $secondary;
+      
 
       .title > i {
       	color: $secondary;
 				background-color: $primary;
+        
 			}
 
       & .ruler {
